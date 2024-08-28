@@ -4,11 +4,14 @@
 <div align="center"> 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450">
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Marllon;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rllon&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rllon&hide_progress=true)  
 
-  ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Marllon;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div aling="center">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m4rllon&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&locale=pt-br" />
+  <img width="35%" height="195px" src="https://camo.githubusercontent.com/86ca9741bd3192ee96abde2f68776ec1c3f21fe32627993fae634fbd98fdb20d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d34726c6c6f6e26686964655f70726f67726573733d74727565"/>
+</div> 
+
  
 <div align="center"> 
   <a href="https://www.instagram.com/marllon4cardoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
